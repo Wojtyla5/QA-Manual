@@ -1,0 +1,40 @@
+{
+ "daneludzi":[
+	{
+	"uczestnik":1,
+	"imię": "Wiktor",
+	"id": "Reznow",
+	"adres": "Wrocław, ul.Wilcza 12/5",
+	"numer_telefonu": 545545545,
+	"kontakt_mailowy": "reznov2010@gmail.com"
+	},
+	{
+	"uczestnik":2,
+	"imię": "Igor",
+	"id": "Pilczyński",
+	"adres": "Poznań, ul. Ogrodowa 22",
+	"numer_telefonu": 123456789,
+	"kontakt_mailowy": "igoropikolo123@interia.pl"
+	},
+	{
+	"uczestnik":3,
+	"imię": "Białystok",
+	"id": "Słobodzian",
+	"adres": "Białystok, ul. Leśna 1/11",
+	"numer_telefonu": 987654321,
+	"kontakt_mailowy": "piotrula99@gmail.com"
+	},
+	{
+	"uczestnik":4, 
+	"imię": "Iwona",
+	"id": "Jung",
+	"adres": "Warszawa, ul. Krucza 3/1",
+	"numer_telefonu": 465587893,
+	"kontakt_mailowy": "iwjg2000@interia.pl"
+	}
+	]
+	}
+	
+	
+	
+	

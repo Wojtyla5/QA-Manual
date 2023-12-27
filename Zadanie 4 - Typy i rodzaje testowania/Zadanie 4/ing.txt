@@ -1,0 +1,8 @@
+Preconditions:
+
+1. Użytkownik posiada założone internetowe konto bankowe ING
+2. Użytkownik znajduje się na stronie https://www.ing.pl
+
+Steps:
+
+1. Zalogować się na stronę poprawnym loginem oraz hasłem

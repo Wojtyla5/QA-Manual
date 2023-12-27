@@ -1,0 +1,30 @@
+<daneludzi>
+	<uczestnik1>
+		<imię> Wiktor </imię>
+		<id> Reznow </id>
+		<adres> Wrocław, ul. Wilcza 12/5 </adres>
+		<numer_telefonu> +48545545545 </numer_telefonu>
+		<kontakt_mailowy> reznov2010@gmail.com </kontakt_mailowy>
+	</uczestnik1>
+	<uczestnik2>
+		<imię> Igor </imię>
+		<id> Piczyński </id>
+		<adres> Poznań, ul. Ogrodowa 22 </adres>
+		<numer_telefonu> +48123456789 </numer_telefonu>
+		<kontakt_mailowy> igoropikolo123@interia.pl </kontakt_mailowy>
+		</uczestnik2>
+	<uczestnik3>
+		<imię> Piotr </imię>
+		<id> Słobodzian </id>
+		<adres> Białystok </adres>
+		<numer_telefonu> +48987654321 </numer_telefonu>
+		<kontakt_mailowy> piotrula99@gmail.com </kontakt_mailowy>
+	</uczestnik3>
+	<uczestnik4>
+		<imię> Iwona </imię>
+		<id> Jung </id>
+		<adres> Warszawa, ul. Krucza 3/1 </adres>
+		<numer_telefonu> +48465587893 </numer_telefonu>
+		<kontakt_mailowy> iwjg2000@interia.pl </kontakt_mailowy>
+	</uczestnik4>
+</daneludzi>
